@@ -1,0 +1,17 @@
+.idea
+*.bak
+*.lock
+*.pyc
+.DS_Store
+__pycache__
+static/admin
+migrations
+media
+upload
+db.sqlite3
+*.html.py
+dump.rdb
+log/
+convert/
+*.pkl
+settings.py
